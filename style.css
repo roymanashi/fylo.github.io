@@ -1,0 +1,208 @@
+.logo{
+  height: 2.5rem;
+  width: 2.5rem;
+  margin-right: 0.8rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.navbar{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.navbar-brand{
+  margin: 1.8rem 5rem;
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+h3{
+  margin: 4rem 5rem;
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+p{
+  margin: 1.8rem 5rem;
+}
+
+.img1-adjust{
+  height: 35rem;
+  width: 35rem;
+  margin-left: 5rem;
+}
+
+.col-adjust{
+  padding-top: 3rem;
+  padding-right: 9rem;
+
+}
+h2{
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #fff;
+  margin: 1.8rem 5rem;
+
+}
+
+.access-para{
+  color: #fff;
+}
+
+.col1-adjust{
+  padding-top: 2rem;
+  padding-right: 9rem;
+  background-color: #EEF1FF;
+}
+
+.nav-link{
+  font-weight: 500;
+  color: #3C4048;
+}
+.form-level{
+  display:inline-block;
+  margin-left: 5rem;
+}
+.form-adjust{
+  padding: 0.34rem 4rem 0.34rem 1rem;
+  border-radius: 3%;
+}
+.btn-adjust{
+  padding: 0.33rem 3rem;
+  margin-left:0.5rem;
+  margin-bottom: 0.2rem;
+  border-radius: 3%;
+}
+
+.svg-adjust{
+  display: block;
+  margin-right: 0;
+
+}
+
+.col2-adjust{
+  background-color: #EEF1FF;
+}
+
+.img2-adjust{
+  height: 37rem;
+  width: 37rem;
+  margin-left: 5rem;
+  margin-top: 2rem;
+}
+
+.link-adjust{
+  color: #7D8F69;
+  margin-left: 4.9rem;
+  display: inline-block;
+  text-decoration: underline;
+
+}
+
+.link-adjust:hover{
+  color: #557153;
+}
+
+.ceo-pic{
+  border-radius: 100%;
+  background-color: darkgrey;
+  float: left;
+  margin-left: 2rem;
+  margin-right: 1rem;
+  height: 4rem;
+  width: 4rem;
+}
+h4{
+  font-size: 1rem;
+  font-weight: 700;
+  margin-top: 2rem;
+
+}
+.card-title{
+  margin-left: 1.5rem;
+  margin-top: 1rem;
+}
+
+.card{
+  width: 60%;
+  margin: 3rem 4.9rem;
+  border-radius: 10%;
+}
+
+.card-body{
+  text-align: left;
+  padding: 0;
+
+}
+.card-text{
+  margin: 1rem 1.5rem;
+}
+
+.subtext-adjust{
+  font-size: 0.7rem;
+  margin-top: 0.5rem;
+  margin-bottom: 5rem;
+}
+.access{
+  background-color: #50577A;
+}
+
+.form-small{
+  margin: 5.5rem 3rem;
+  margin-bottom: 0;
+  width: 70%;
+}
+
+.btn-small{
+  margin-top: 0.5rem;
+  margin-left: 3rem;
+  margin-bottom: 5rem;
+  padding: 0.5rem 3rem;
+}
+.footer{
+  background-color: #150050;
+  padding-bottom: 5rem;
+}
+
+h1{
+  color: #fff;
+  margin: 5rem 4.7rem;
+  margin-bottom: 2rem;
+}
+.p-footer{
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 200;
+  margin-top: 0.7rem;
+  display: block;
+  padding-left: 3rem;
+
+}
+.phone{
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 200;
+  margin-top: 1rem;
+  margin-left: 4.5rem;
+}
+.email{
+  padding-left: 4.3rem;
+}
+
+.p-footer:hover{
+  color:  #CFFFF;
+  text-decoration: none;
+}
+
+.p-adjust{
+  padding-top: 10rem;
+}
+
+.icon-set{
+  color: #fff;
+  padding-top: 10rem;
+  padding-left: 1rem;
+}
